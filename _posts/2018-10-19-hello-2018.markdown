@@ -1,0 +1,25 @@
+---
+layout:     post
+title:      "Hello 2018"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2018-10-19 19:00:00
+author:     "Hoongbin"
+header-img: "img/post-bg-2018.jpg"
+catalog: true
+tags:
+    - 生活
+    - Meta
+---
+
+> “Yeah It's on. ”
+
+## 前言
+
+---
+
+## 正文
+
+
+## 后记
+
+—— Hoongbin 后记于 2015.10
