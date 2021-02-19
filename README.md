@@ -7,4 +7,4 @@ tags:
 
 # Hongbin.Chen Blog
 
-首页: https://chenhongbin.name
+首页: https://hoongbin.github.io
